@@ -15,7 +15,7 @@
 **Dependency (type latest version in for version)**
 
 ```
-<!-- LunarClinet API -->
+<!-- LunarClient API -->
 <dependency>
   <groupId>com.github.NegativeKB</groupId>
   <artifactId>LunarClientAPI</artifactId>
