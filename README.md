@@ -1,7 +1,27 @@
-# thank u nova 
-
 # Lunar Client Bukkit API
 > Integrate your server with Lunar Client!
+
+## Maven Repository
+
+**Repository**:
+
+```
+<repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+</repository>
+```
+
+**Dependency (type latest version in for version)**
+
+```
+<!-- LunarClinet API -->
+<dependency>
+  <groupId>com.github.NegativeKB</groupId>
+  <artifactId>LunarClientAPI</artifactId>
+  <version>1.0</version>
+</dependency>
+```
 
 ## Server Owners:
 > Quick and Easy Setup
