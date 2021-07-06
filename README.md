@@ -20,6 +20,7 @@
   <groupId>com.github.NegativeKB</groupId>
   <artifactId>LunarClientAPI</artifactId>
   <version>1.0</version>
+  <scope>provided<scope>
 </dependency>
 ```
 
