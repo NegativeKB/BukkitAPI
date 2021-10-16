@@ -6,7 +6,7 @@ package com.lunarclient.bukkitapi.object;
  *
  * Currently only XRAY is implemented but there are
  * future plans to expand this to possibly NAME_TAGS,
- * and there is still discussion of weather BUNNY_HOP
+ * and there is still discussion of whether BUNNY_HOP
  * will make a return.
  *
  * NOTE: Lunar Client will NOT check if the user is
